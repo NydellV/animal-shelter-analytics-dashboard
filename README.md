@@ -62,3 +62,15 @@ This project strengthened my understanding of backend database operations, front
 Bachelor of Science in Computer Science
 
 Interested in Data Analytics, Business Intelligence, and Data Engineering.
+
+<h2 align="center">Dashboard Preview</h2>
+
+<p align="center">
+  <img src="Chart1.png" width="45%">
+  <img src="Chart2.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="Chart3.png" width="45%">
+  <img src="Chart4.png" width="45%">
+</p>
