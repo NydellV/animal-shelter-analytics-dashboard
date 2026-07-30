@@ -8,6 +8,15 @@ The goal of the dashboard is to help users explore and analyze animal shelter da
 I developed this project to gain hands on experience working with databases, data visualization, and dashboard development while applying data analytics concepts to a real-world dataset.
 
 ---
+<p align="center">
+  <img src="Chart1.png" width="48%" alt="Animal shelter dashboard chart 1">
+  <img src="Chart2.png" width="48%" alt="Animal shelter dashboard chart 2">
+</p>
+
+<p align="center">
+  <img src="Chart3.png" width="48%" alt="Animal shelter dashboard chart 3">
+  <img src="Chart4.png" width="48%" alt="Animal shelter dashboard chart 4">
+</p>
 
 ## Features
 
@@ -62,15 +71,3 @@ This project strengthened my understanding of backend database operations, front
 Bachelor of Science in Computer Science
 
 Interested in Data Analytics, Business Intelligence, and Data Engineering.
-
-<h2 align="center">Dashboard Preview</h2>
-
-<p align="center">
-  <img src="Chart1.png" width="45%">
-  <img src="Chart2.png" width="45%">
-</p>
-
-<p align="center">
-  <img src="Chart3.png" width="45%">
-  <img src="Chart4.png" width="45%">
-</p>
